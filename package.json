@@ -1,0 +1,25 @@
+{
+  "name": "nursani",
+  "version": "1.0.0",
+  "description": "My Description",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhamadsani/nursani.git"
+  },
+  "keywords": [
+    "nursani"
+  ],
+  "author": "rhamad nursani sidik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhamadsani/nursani/issues"
+  },
+  "homepage": "https://github.com/rhamadsani/nursani#readme",
+  "dependencies": {
+    "firebase-tools": "^12.3.1"
+  }
+}
